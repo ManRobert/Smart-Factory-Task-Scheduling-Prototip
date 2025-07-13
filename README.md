@@ -92,3 +92,11 @@ T5  | cut      | 1 | M1 | 15
 
 Total tasks generated: 20  
 Total historical records: 100
+
+## Visualizations
+
+### Fitness Evolution Over Generations
+![Fitness Evolution](fitnessEvolution.png)
+
+### Final Gantt Chart
+![Gantt Chart](grant.png)
